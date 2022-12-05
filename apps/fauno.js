@@ -1,4 +1,4 @@
-const redirect_uri = "https://rodrigokcarlos.github.io/fauno-music/home.html";
+const redirect_uri = "https://liipex.github.io/fauno-music/home.html";
 // const redirect_uri = "http://localhost:5500/home.html";
 
 let client_id = "7a3d0d99a035445782307dfdb95a0a68"; 
